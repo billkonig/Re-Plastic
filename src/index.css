@@ -11,3 +11,108 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.container {
+  margin-top: 90px;
+  width: 380px;
+}
+
+.header-margin-bottom {
+  margin-bottom: 54px;
+}
+
+.margin-bottom-5px {
+  margin-bottom: 5px;
+}
+
+.header {
+  color: green;
+}
+.signup {
+  background:url(./images/opener.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  font-family: 'Roboto', sans-serif;
+  min-height: 100%;
+  min-width: 1024px;
+    
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+    
+  /* Set up positioning */
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+.signup-form{
+width: 400px;
+margin: 0 auto;
+margin-top: 8%;
+-webkit-border-radius: 20px;
+-moz-border-radius: 20px;
+border-radius: 20px;
+}
+.bottles {
+  background:url(C:/Users/wkoni/Documents/CapstoneProject/src/images/background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: local;
+  font-family: 'Roboto', sans-serif;
+  max-height: 100%;
+  min-width: 1024px;
+    
+  /* Set up proportionate scaling */
+  width: 100%;
+  height: auto;
+    
+  /* Set up positioning */
+  position: scroll;
+  top: 0;
+  left: 0;
+}
+.nav-link{
+  color: black;
+}
+.navbar-brand{
+  color: green;
+}
+.or{
+  position: relative;
+  top: 7px;
+}
+.logo{
+  position: relative;
+  display: inline-block;
+  top: 0px;
+  bottom: 50px;
+}
+.how-right img {
+  left: 30px;
+  margin: auto auto;
+  vertical-align:left;
+  align-content: center;
+  background-color: white;
+  display: inline-block;
+  border-radius: 10px;
+}
+span {
+  height: 130px;            
+  display: table-cell;
+  vertical-align: middle;
+  max-width: 975px;
+  opacity: 0.6;
+  background-color: white;
+  align-content:center;
+  border-radius: 20px;
+}
+
+.drop-off-desc{
+  padding-left: 2.5%;
+}
+.top-margin{
+  margin-top: 1.5%;
+}
+.center{
+  text-align: center !important;
+}
